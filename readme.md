@@ -12,4 +12,4 @@
 - install telegrom bot library
 - pip install python-telegram-bot 
 - make robot by using botfather in telegrom and copy the token and replace it with token section in python code
-- and type "bitkoin" 
+- then ,by giving token command ,the exact price is sent.
