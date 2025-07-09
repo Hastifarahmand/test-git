@@ -7,8 +7,7 @@
 ## installation guide
 
 - make a python file and copy this code 
-- make a venv
-- python -m venv .venv
+- make a venv -> python -m venv .venv -> .venv\scripts\activate
 - install telegrom bot library
 - pip install python-telegram-bot 
 - make robot by using botfather in telegrom and copy the token and replace it with token section in python code
